@@ -1,0 +1,5 @@
+{
+  "name": "ALPA v2 - Secure Document Processor",
+  "description": "An AI-powered workflow simulator for securely processing, validating, and organizing bank documents. This application uses Gemini to analyze file content, simulates CRM lookups, and demonstrates an automated file renaming and sorting process.",
+  "requestFramePermissions": []
+}
